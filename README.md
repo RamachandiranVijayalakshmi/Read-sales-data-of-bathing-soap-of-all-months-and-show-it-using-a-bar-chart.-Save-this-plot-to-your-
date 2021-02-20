@@ -1,0 +1,1 @@
+# Read-sales-data-of-bathing-soap-of-all-months-and-show-it-using-a-bar-chart.-Save-this-plot-to-your-
